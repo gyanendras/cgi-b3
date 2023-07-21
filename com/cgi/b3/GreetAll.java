@@ -1,3 +1,5 @@
+package com.cgi.b3 ;
+
 public class GreetAll{
 private String s = "Hello World!";
 private int x = 10;
